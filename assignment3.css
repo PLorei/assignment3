@@ -1,1 +1,28 @@
 /*styles for assignment 3*/
+.wrap {
+  border: 1px solid black;
+  margin-bottom: 20px;
+}
+
+.destroy {
+  display: block;
+  color: white;
+  background-color: red;
+}
+
+.car-name {
+  font-size: 18px;
+}
+
+.empty {
+  color: red;
+}
+
+.fill {
+  color: green;
+}
+
+.coast {
+  display: block;
+  background-color: aliceblue;
+}
